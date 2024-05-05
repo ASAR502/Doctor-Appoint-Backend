@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HealthBooker🧑‍⚕️
 
 <h3>Description :</h3> 
@@ -31,3 +32,7 @@ Base URL for backend : https://book-doctor.onrender.com/
 <hr/>
 
 
+=======
+# Doctor-Appoint-Backend
+Doctor Appointment 
+>>>>>>> origin/main
