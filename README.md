@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # HealthBooker🧑‍⚕️
 
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
 <br/>
-Base URL for backend : https://book-doctor.onrender.com/
+Base URL for backend : 
 
 
 
@@ -32,7 +31,3 @@ Base URL for backend : https://book-doctor.onrender.com/
 <hr/>
 
 
-=======
-# Doctor-Appoint-Backend
-Doctor Appointment 
->>>>>>> origin/main

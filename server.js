@@ -19,8 +19,14 @@ app.use("/api/appointment", appointRouter);
 app.use("/api/notification", notificationRouter);
 app.use(express.static(path.join(__dirname, "./client/build")));
 
+// A simple health check endpoint to keep the server active
+app.get("/health", (req, res) => {
+
+  res.status(200).send("ok");
+  
+  });
 app.get("*", (req, res) => {
-  res.send("this is backend ");
+  res.send("this is backend Go and hit some API ");
 });
 
 
